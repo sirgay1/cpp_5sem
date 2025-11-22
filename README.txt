@@ -1,3 +1,5 @@
+Calculator
+
 При запуске main.cpp выведется:
 ```
 Failed to load plugin: ./plugins\funcln.dll
